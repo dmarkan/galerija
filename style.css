@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+img {
+  border:solid 2px #fff;
+  position: absolute;
+}
+
+#tekst {
+  color: #fff;
+  font-size: 60px;
+  margin-left: 400px;
+  margin-top: -900px;
+  font-family: Helvetica;
+  max-width: 1000px;
+}
